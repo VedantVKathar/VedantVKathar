@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vedant Kathar</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from India</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b7c75ed1-4ffd-4ad0-a679-0fb4890238e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<h3 align="center">I have done my Btech in the field of Artificial Intelligence and Machine Learning , currently i have been working on Quantum Computing and Quantum ML </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantvkathar&label=Profile%20views&color=0e75b6&style=flat" alt="vedantvkathar" /> </p>
 
 - 🌱 I’m currently learning **PostgreSQL , Working on Data Visualization , Data Engineering**
-
+  
+-  💻 Have been intrested into the Quantum World !!
+  
 - 👨‍💻 All of my projects are available at [https://github.com/VedantVKathar](https://github.com/VedantVKathar)
 
 - 📫 How to reach me **vedantkathar2211@gmail.com**
